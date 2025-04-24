@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    justify-items: center;
+    
+}
+
+form {
+    /* background-color: rgb(252, 23, 23); */
+    height: 35rem;
+    width: 40rem;
+    align-content: center;
+    justify-items: center;
+    margin-top: 70px;
+}
+
+input{
+    width: 17rem;
+    height: 2rem;
+}
+
+button{
+    width: 17rem;
+    height: 2rem;
+    background-color: blue;
+    color: azure;
+}
